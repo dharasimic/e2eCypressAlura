@@ -1,0 +1,15 @@
+{
+  "name": "e2ecypressalura",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.3",
+    "mochawesome": "^7.1.3"
+  }
+}
