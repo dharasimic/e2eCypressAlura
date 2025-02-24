@@ -24,15 +24,15 @@ Antes de começar, certifique-se de ter instalado:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/cypress-automacao-e2e.git
+   https://github.com/dharasimic/e2eCypressAlura
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd cypress-automacao-e2e
+   cd e2e
    ```
 3. Instale as dependências:
    ```sh
-   npm install  # ou yarn install
+   npm install
    ```
 4. Execute os testes no modo interativo:
    ```sh
